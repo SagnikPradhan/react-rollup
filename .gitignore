@@ -118,3 +118,6 @@ dist
 
 # Build directory
 build/
+
+# Editor Setings
+.vscode/
